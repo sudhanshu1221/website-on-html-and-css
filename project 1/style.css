@@ -1,0 +1,89 @@
+
+   
+    body{ background-image: url("pexels-anush-gorak-1229356.jpg");
+    font-family: 'Baloo Bhai 2', cursive;
+    background-size: cover;
+margin: 0%;
+padding: 0%;
+
+
+    }
+
+    .left{color: red;
+    /* border: yellow solid; */
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 12px;
+
+    }
+    .middle{color: red;
+    
+    /* border: yellow solid; */
+    
+    display: inline-block;
+    position: absolute;
+    margin: 20px auto;
+    right: 433px;
+    top: 10px;
+    height: 56px;
+
+    }
+    .right{color: red;
+    
+/*     
+    border: yellow solid; */
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+
+
+    }
+    .btn{padding: 5px;
+    margin: 4px; 
+    border-radius: 8px;
+    background-color: grey;
+    font-family: 'Baloo Bhai 2', cursive;
+
+    }
+    .btn:hover{color: red; }
+    li{ list-style: none;
+    display: inline-block;
+    font-size: 30px;
+    
+    }
+    a{ text-decoration: none;
+    height: 30px;
+    color: white;
+    size: 5px;
+    margin: 16px;
+    padding: 10px;}
+    a:hover{ color: grey;}
+    .left img{ width: 100px;}
+    h3{ color: honeydew;}
+    .container{
+        
+         /* border: honeydew solid 3px ; */
+    
+    position: absolute;
+    top: 309px;
+    left: 319px;
+   }
+        .formgroup input{ 
+            border-radius: 9px;
+
+ /* border: 2px solid red; */
+
+ margin: 6px auto;
+ padding: 4px;
+ text-align: center;
+
+         }
+         .container button{ text-align: center;
+            margin: auto 33px;
+    width: 39%;
+    border-radius: 5px;
+}
+          
+    
